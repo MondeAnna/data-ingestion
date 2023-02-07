@@ -1,0 +1,14 @@
+# everything
+*
+
+# except
+!*.ipynb
+!*.log
+!*.md
+!*.py
+!*.txt
+!.gitignore
+!assets
+!logs
+!notebook
+!utilities
