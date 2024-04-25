@@ -9,7 +9,7 @@
 <h5 align="center">Introduction</H3>
 
 
-<a href=https://www.asisa.org.za/about-us/">ASISA</a> is a non-profit organisation that represents South Africa's financial services sector. In essence, offering a union, wherein membership gives companies in the savings, investment and insurance industries a combined voice in discussions and negotiations with regulators, policymakers and other stakeholders, such as intermediaries, the media and consumers.
+<a href="https://www.asisa.org.za/about-us/">ASISA</a> is a non-profit organisation that represents South Africa's financial services sector. In essence, offering a union, wherein membership gives companies in the savings, investment and insurance industries a combined voice in discussions and negotiations with regulators, policymakers and other stakeholders, such as intermediaries, the media and consumers.
 
 To our great benefit, ASISA also provides <a href="https://www.asisa.org.za/statistics/">statistics</a> relating to the financial services sector and it is with those that we will concern ourselves.
 
